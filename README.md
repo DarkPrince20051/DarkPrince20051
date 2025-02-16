@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkPrince20051
-- 👀 I’m interested in reactjs,css.js,...
+- 👀 I’m interested in reactjs,css.js,python,...
 - 🌱 I’m currently learning reactjs,js.css,html
 - My favourite programming language is python
 
